@@ -25,6 +25,7 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 - [@antoinevastel](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting): "Picasso based canvas fingerprinting"
 - [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/): "How Does Canvas Fingerprinting Work?"
 - [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/): "Overview of Google’s Picasso"
+- [Dali.js](https://github.com/onsitejs/dali.js): Dali.js, Picasso-like device attestation payload
 
 ## Other Fingerprinting
 - [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
@@ -32,6 +33,7 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 
 ### Passive Fingerprinting
 - [p0f](https://lcamtuf.coredump.cx/p0f3/): Passive fingerprinting of TCP/IP communications.
+- [nmap](https://nmap.org/book/man-os-detection.html): Nmap Reference Guide on OS Detection
 
 ### TLS Fingerprinting
 - [ja3](https://github.com/salesforce/ja3): JA3 is a method for creating SSL/TLS client fingerprints for threat intelligence.
