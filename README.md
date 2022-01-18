@@ -60,7 +60,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [DeviceInfo](https://www.deviceinfo.me): web browser security testing, privacy testing, and troubleshooting tool.
 - [Privacy Analyzer](https://privacy.net/analyzer/): tool lists information that any website, advertisement, and widget can collect from your web browser
 
-## Other Fingerprinting
+### Other Fingerprinting
 - [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
 - [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/): "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode"
 
