@@ -14,6 +14,7 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 
 ## Browsers
 - [Vivaldi](https://vivaldi.com/blog/privacy/privacy-is-not-dead-you-have-choices-in-browsers-and-search-engines/): "Privacy is not dead. You have choices in browsers and search engines."
+- [Brave Browser}(https://brave.com/features/): "3x faster than Chrome. Better protection from Google and Big Tech."
 
 --------
 
