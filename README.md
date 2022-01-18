@@ -12,6 +12,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Browsers](#browsers)
 - [Fingerprinting](#fingerprinting)
   - [Canvas Fingerprinting](#canvas-fingerprinting)
+  - [Counter Fingerprinting](#counter-fingerprinting)
   - [Passive Fingerprinting](#passive-fingerprinting)
   - [TLS Fingerprinting](#tls-fingerprinting)
 - [Surveillance Capitalism](#surveillance-capitalism)
@@ -34,6 +35,9 @@ Accepting all contributions that surface useful content on the topic of private 
 - [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/): "How Does Canvas Fingerprinting Work?"
 - [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/): "Overview of Google’s Picasso"
 - [Dali.js](https://github.com/onsitejs/dali.js): Dali.js, Picasso-like device attestation payload
+
+### Counter Fingerprinting
+- [Am I Unique](https://amiunique.org/stats): basic information a user's browser configuration and how trackable it is
 
 ## Other Fingerprinting
 - [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
