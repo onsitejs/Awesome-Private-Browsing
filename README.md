@@ -2,13 +2,13 @@
 A curated list of awesome private web browsing tools, projects, software, ideas, and resources
 
 ## Contents
-**[Browsers](#browsers)**
-**[Fingerprinting](#fingerprinting)**
-- [Canvas Fingerprinting](#canvas-fingerprinting)
-- [Passive Fingerprinting](#passive-fingerprinting)
-- [TLS Fingerprinting](#tls-fingerprinting)
-**[Surveillance Capitalism](#surveillance-capitalism)**
-**[Web Analytics](#web-analytics)**
+- [Browsers](#browsers)
+- [Fingerprinting](#fingerprinting)
+  - [Canvas Fingerprinting](#canvas-fingerprinting)
+  - [Passive Fingerprinting](#passive-fingerprinting)
+  - [TLS Fingerprinting](#tls-fingerprinting)
+- [Surveillance Capitalism](#surveillance-capitalism)
+- [Web Analytics](#web-analytics)
 
 --------
 
