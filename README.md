@@ -2,6 +2,7 @@
   <img src="https://awesome.re/badge.svg" alt="Awesome">
     <a href="https://git.nixnet.services/pluja/awesome-privacy"></a>
 </a>
+
 # Awesome-Private-Browsing
 A curated list of awesome private web browsing tools, projects, software, ideas, and resources
 
