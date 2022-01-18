@@ -16,6 +16,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Fingerprinting](#fingerprinting)
   - [Canvas Fingerprinting](#canvas-fingerprinting)
   - [Counter Fingerprinting](#counter-fingerprinting)
+  - [Other Fingerprinting](#other-fingerprinting)
   - [Passive Fingerprinting](#passive-fingerprinting)
   - [TLS Fingerprinting](#tls-fingerprinting)
 - [Surveillance Capitalism](#surveillance-capitalism)
