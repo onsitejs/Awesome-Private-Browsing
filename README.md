@@ -30,8 +30,10 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Brave Browser](https://brave.com/features/): "3x faster than Chrome. Better protection from Google and Big Tech."
 - [Tor Browser](https://www.torproject.org/download/): Firefox-based browser that connects to Tor network.
 - [Apple](https://www.apple.com/safari/docs/Safari_White_Paper_Nov_2019.pdf): Apple's whitepaper on Safari's privacy by design approach.
+- [Google Safe Browsing](https://safebrowsing.google.com/): Safe Browsing gives users the ability to protect themselves from multiple types of unsafe sites and applications.
 - [Chrome Developers](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/design/sandbox.md): Design document on Google Chrome's security sandbox.
 - [Chrome Developers](https://developer.chrome.com/docs/privacy-sandbox/user-agent/): User-Agent reduction in Chrome Privacy Sandbox.
+- [Menlo Remote Browser](https://www.menlosecurity.com/product/remote-browser-isolation/): routes all online activity through a remote cloud-based browser
 
 --------
 
