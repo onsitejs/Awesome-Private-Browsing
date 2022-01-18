@@ -10,6 +10,9 @@ Accepting all contributions that surface useful content on the topic of private 
 
 ## Contents
 - [Browsers](#browsers)
+- [Browser Extensions](#browser-extensions)
+  - [Anti-Tracking](#anti-tracking)
+  - [Security Extensions](#security-extensions)
 - [Fingerprinting](#fingerprinting)
   - [Canvas Fingerprinting](#canvas-fingerprinting)
   - [Counter Fingerprinting](#counter-fingerprinting)
@@ -27,6 +30,20 @@ Accepting all contributions that surface useful content on the topic of private 
 
 --------
 
+## Browser Extensions
+
+### Anti-Tracking
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): "wide-spectrum content blocker with CPU and memory efficiency as a primary feature."
+- [AdBlock Plus](https://adblockplus.org): "Surf the web with no annoying ads"
+- [Ghostery](https://www.ghostery.com): "Browse Fast, Block Ads & Trackers with Ghostery Privacy Suite"
+- [Disconnect](https://disconnect.me): "Protect yourself from malicious internet tracking, ads, web content, and other privacy threats."
+
+### Security Extensions
+- [NoScript](https://noscript.net): "allows JavaScript, Java, Flash and other plugins to be executed only by trusted web sites of your choice"
+- [OttoJS](https://www.otto-js.com): "Runtime Third-Party JavaScript Security."
+
+--------
+
 ## Fingerprinting
 
 ### Canvas Fingerprinting
@@ -38,6 +55,10 @@ Accepting all contributions that surface useful content on the topic of private 
 
 ### Counter Fingerprinting
 - [Am I Unique](https://amiunique.org/stats): basic information a user's browser configuration and how trackable it is
+- [EFF CoverYourTracks](https://coveryourtracks.eff.org/kcarter?aat=1): EFF project that allows you to understand how easy it is to identify and track your browser
+- [BrowserLeaks](https://browserleaks.com/canvas): gallery of testing tools that show what browser data can be leaked
+- [DeviceInfo](https://www.deviceinfo.me): web browser security testing, privacy testing, and troubleshooting tool.
+- [Privacy Analyzer](https://privacy.net/analyzer/): tool lists information that any website, advertisement, and widget can collect from your web browser
 
 ## Other Fingerprinting
 - [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
