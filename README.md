@@ -2,13 +2,18 @@
 A curated list of awesome private web browsing tools, projects, software, ideas, and resources
 
 ## Contents
-
+**[Browsers](#browsers)**
 **[Fingerprinting](#fingerprinting)**
 - [Canvas Fingerprinting](#canvas-fingerprinting)
 - [Passive Fingerprinting](#passive-fingerprinting)
 - [TLS Fingerprinting](#tls-fingerprinting)
-
+**[Surveillance Capitalism](#surveillance-capitalism)**
 **[Web Analytics](#web-analytics)**
+
+--------
+
+## Browsers
+- [Vivaldi](https://vivaldi.com/blog/privacy/privacy-is-not-dead-you-have-choices-in-browsers-and-search-engines/): "Privacy is not dead. You have choices in browsers and search engines."
 
 --------
 
@@ -28,6 +33,11 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 - [Salesforce Blog](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967): "TLS Fingerprinting with JA3 and JA3S"
 - [jarm](https://github.com/salesforce/jarm): JARM is an active Transport Layer Security (TLS) server fingerprinting tool.
 - [ja3er](https://ja3er.com/): ja3er is a project about collecting and sharing JA3 hashes.
+
+--------
+
+## Surveillance Capitalism
+- [Vivaldi](https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/): "Open letter: Ban surveillance-based advertising"
 
 --------
 
