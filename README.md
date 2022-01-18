@@ -26,8 +26,10 @@ Accepting all contributions that surface useful content on the topic of private 
 
 ## Browsers
 - [Vivaldi](https://vivaldi.com/blog/privacy/privacy-is-not-dead-you-have-choices-in-browsers-and-search-engines/): "Privacy is not dead. You have choices in browsers and search engines."
+- [The Browser Company](https://thebrowser.company/): building "A browser equipped for the way we use the internet in 2021."
 - [Brave Browser](https://brave.com/features/): "3x faster than Chrome. Better protection from Google and Big Tech."
-- [Chrome Developers](https://developer.chrome.com/docs/privacy-sandbox/user-agent/) User-Agent reduction in Chrome Sandbox
+- [Tor Browser](https://www.torproject.org/download/): Firefox-based browser that connects to Tor network.
+- [Chrome Developers](https://developer.chrome.com/docs/privacy-sandbox/user-agent/): User-Agent reduction in Chrome Sandbox.
 
 --------
 
