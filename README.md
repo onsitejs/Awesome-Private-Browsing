@@ -3,7 +3,7 @@
     <a href="https://git.nixnet.services/pluja/awesome-privacy"></a>
 </a>
 
-# Awesome-Private-Browsing
+# Awesome Private Browsing
 A curated list of awesome private web browsing tools, projects, software, ideas, and resources
 
 ## Contents
