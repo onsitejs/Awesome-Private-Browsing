@@ -4,7 +4,9 @@
 </a>
 
 # Awesome Private Browsing
-A curated list of awesome private web browsing tools, projects, software, ideas, and resources
+A curated list of awesome private web browsing tools, projects, software, ideas, and resources.
+
+Accepting all contributions that surface useful content on the topic of private web browsers and technologies.
 
 ## Contents
 - [Browsers](#browsers)
