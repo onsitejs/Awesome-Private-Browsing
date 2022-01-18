@@ -25,6 +25,10 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 - [FingerprintJS](https://fingerprintjs.com/blog/canvas-fingerprinting/): "How Does Canvas Fingerprinting Work?"
 - [AdTechMadness](https://adtechmadness.wordpress.com/2019/03/19/overview-of-googles-picasso/): "Overview of Google’s Picasso"
 
+## Other Fingerprinting
+- [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
+- [FingerprintJS](https://fingerprintjs.com/blog/incognito-mode-detection/): "Incognito Mode Detection: Detecting Visitors Who Browse in Private Mode"
+
 ### Passive Fingerprinting
 - [p0f](https://lcamtuf.coredump.cx/p0f3/): Passive fingerprinting of TCP/IP communications.
 
@@ -37,6 +41,7 @@ A curated list of awesome private web browsing tools, projects, software, ideas,
 --------
 
 ## Surveillance Capitalism
+- [The Age of Surveillance Capitalism on Wikipedia](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism): Shoshana Zuboff suggests that Big Tech business models represent a new form of capitalist accumulation, "surveillance capitalism".
 - [Vivaldi](https://vivaldi.com/blog/letter-ban-surveillance-based-advertising/): "Open letter: Ban surveillance-based advertising"
 
 --------
