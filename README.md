@@ -29,6 +29,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [The Browser Company](https://thebrowser.company/): building "A browser equipped for the way we use the internet in 2021."
 - [Brave Browser](https://brave.com/features/): "3x faster than Chrome. Better protection from Google and Big Tech."
 - [Tor Browser](https://www.torproject.org/download/): Firefox-based browser that connects to Tor network.
+- [Apple](https://www.apple.com/safari/docs/Safari_White_Paper_Nov_2019.pdf): Apple's whitepaper on Safari's privacy by design approach.
 - [Chrome Developers](https://developer.chrome.com/docs/privacy-sandbox/user-agent/): User-Agent reduction in Chrome Sandbox.
 
 --------
