@@ -68,6 +68,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Privacy Analyzer](https://privacy.net/analyzer/): tool lists information that any website, advertisement, and widget can collect from your web browser
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en): Spoofs & Mimics User-Agent strings.
 - [Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en): extension to quickly create, edit and delete cookies without leaving your tab
+- [HUMAN Security](https://www.humansecurity.com/blog/the-cybercrime-starter-kit-inside-anti-detection-browsers): "Inside Anti-Detection Browsers and Account Takeovers"
 
 ### Other Fingerprinting
 - [Jesse Li](https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/): "Detecting incognito mode in Chrome 76 with a timing attack"
