@@ -34,7 +34,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Chrome Developers](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/design/sandbox.md): Design document on Google Chrome's security sandbox.
 - [Chrome Developers](https://developer.chrome.com/docs/privacy-sandbox/user-agent/): User-Agent reduction in Chrome Privacy Sandbox.
 - [Menlo Remote Browser](https://www.menlosecurity.com/product/remote-browser-isolation/): routes all online activity through a remote cloud-based browser
-
+- [Viewfinder Remote Browser](https://github.com/i5ik/Viewfinder): remote isolated web browser that runs in the cloud to protect your device.
 --------
 
 ## Browser Extensions
