@@ -93,6 +93,7 @@ Accepting all contributions that surface useful content on the topic of private 
 --------
 
 ## Web Analytics
+- [analytics.usa.gov](https://analytics.usa.gov/data/): Aggregated data of US government website analytics, updated frequently.
 - [Matomo](https://matomo.org/): Google Analytics alternative that protects your data and your customers' privacy.
 - [Plausible](https://plausible.io/): Simple and privacy-friendly alternative to Google Analytics.
 - [Umami](https://umami.is/): A simple, fast, website analytics alternative to Google Analytics.
@@ -101,4 +102,4 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Ackee](https://ackee.electerious.com/): Self-hosted website analytics.
 - [Shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [Pirsch](https://pirsch.io/): Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics.
-- [OnSiteJS](https://onsitejs.org) - Privacy-conscious web analytics.
+- [OnSiteJS](https://onsitejs.org): Privacy-conscious web analytics.
