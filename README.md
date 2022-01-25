@@ -103,3 +103,4 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [Pirsch](https://pirsch.io/): Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics.
 - [OnSiteJS](https://onsitejs.org): Privacy-conscious web analytics.
+- [OffSiteJS](https://offsitejs.org): Decentralized, private-by-design web analytics
