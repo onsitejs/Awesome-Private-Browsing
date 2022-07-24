@@ -94,6 +94,7 @@ Accepting all contributions that surface useful content on the topic of private 
 
 ## Web Analytics
 - [analytics.usa.gov](https://analytics.usa.gov/data/): Aggregated data of US government website analytics, updated frequently.
+- [Simple Analytics](https://www.simpleanalytics.com/): Pprivacy-first Google Analytics alternative.
 - [Matomo](https://matomo.org/): Google Analytics alternative that protects your data and your customers' privacy.
 - [Plausible](https://plausible.io/): Simple and privacy-friendly alternative to Google Analytics.
 - [Umami](https://umami.is/): A simple, fast, website analytics alternative to Google Analytics.
